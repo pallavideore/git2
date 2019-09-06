@@ -93,7 +93,7 @@ public class ManagerNotification {
 				days[i]=daysarray[i];
 			}
 
-			//System.out.println(Arrays.toString(days));
+			System.out.println("Hello World");
 		}
 
 
