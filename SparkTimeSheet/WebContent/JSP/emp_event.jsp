@@ -110,7 +110,7 @@ function validatehours(){
 
         $(".code").each(function() {
 
-            //add only if the value is number
+            //add only if the value is number .
 
             if (!isNaN(this.value) && this.value.length != 0) {
 
